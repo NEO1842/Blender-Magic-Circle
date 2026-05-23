@@ -1,6 +1,6 @@
 name: Bug Report
-description: Report a bug or unexpected behavior
-title: "[Bug]: "
+description: Report bugs or unexpected behavior
+title: "[Bug] "
 labels:
   - bug
 
@@ -9,8 +9,8 @@ body:
     id: description
     attributes:
       label: Description
-      description: Describe the problem clearly
-      placeholder: Explain the issue...
+      description: Describe the issue
+      placeholder: Explain the problem here
     validations:
       required: true
 
@@ -18,18 +18,18 @@ body:
     id: blender_version
     attributes:
       label: Blender Version
-      placeholder: Example: Blender 4.2
+      placeholder: Blender 4.2
     validations:
       required: true
 
   - type: textarea
-    id: steps
+    id: reproduce
     attributes:
       label: Steps to Reproduce
       placeholder: |
-        1.
-        2.
-        3.
+        1. Open project
+        2. Play animation
+        3. Problem appears
     validations:
       required: true
 
@@ -37,4 +37,4 @@ body:
     id: expected
     attributes:
       label: Expected Behavior
-      placeholder: What should happen?
+      placeholder: Describe what should happen
