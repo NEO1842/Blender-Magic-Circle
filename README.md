@@ -6,7 +6,7 @@
 
 <p align="center">
 <a href="https://github.com/NEO1842/Blender-Magic-Circle">
-<img src="Magic%20Circle.png" width="600">
+<img src="Blender Magic Circle/Magic%20Circle.png" width="600">
 </a>
 </p>
 
@@ -73,7 +73,7 @@ Please comply with the laws and license conditions of your country.
 <div align="center">
 
 <a href="https://github.com/NEO1842/Blender-Magic-Circle">
-<img src="Magic%20Circle.png" width="600">
+<img src="Blender Magic Circle/Magic%20Circle.png" width="600">
 </a>
 
 </div>
