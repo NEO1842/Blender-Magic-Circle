@@ -24,7 +24,8 @@ SOFTWARE.
 
 # Credit
 
-If you use or redistribute this project, please include a link to the original repository:https://github.com/NEO1842/Blender-Fireworks
+If you use or redistribute this project, please include a link to the original repository:
+https://github.com/NEO1842/Blender-Magic-Circle
 
 ---
 
@@ -42,4 +43,5 @@ Copyright (c) 2026 岡 村剛
 
 # クレジット
 
-このプロジェクトを使用または再配布する場合は、元のリポジトリへのリンクを記載してください：https://github.com/NEO1842/Blender-Fireworks
+このプロジェクトを使用または再配布する場合は、元のリポジトリへのリンクを記載してください：
+https://github.com/NEO1842/Blender-Magic-Circle
