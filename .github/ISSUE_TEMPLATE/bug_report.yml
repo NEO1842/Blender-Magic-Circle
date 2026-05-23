@@ -1,32 +1,40 @@
----
 name: Bug Report
-about: Report a problem or unexpected behavior
-title: "[Bug] "
-labels: bug
-assignees: ''
+description: Report a bug or unexpected behavior
+title: "[Bug]: "
+labels:
+  - bug
 
----
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Describe the problem clearly
+      placeholder: Explain the issue...
+    validations:
+      required: true
 
-# Bug Report
+  - type: input
+    id: blender_version
+    attributes:
+      label: Blender Version
+      placeholder: Example: Blender 4.2
+    validations:
+      required: true
 
-## Description
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce
+      placeholder: |
+        1.
+        2.
+        3.
+    validations:
+      required: true
 
-Describe the issue clearly.
-
-## Blender Version
-
-Example: Blender 4.2
-
-## Steps to Reproduce
-
-1.
-2.
-3.
-
-## Expected Behavior
-
-Describe what should happen.
-
-## Screenshots
-
-If applicable, add screenshots or videos.
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behavior
+      placeholder: What should happen?
