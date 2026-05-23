@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/NEO1842/Blender-Magic-Circle">
+<a href="https://drive.google.com/file/d/18LfLnoKogsrWnQze4FvCvG2RF6EMT-aa/view?usp=sharing">
 <img src="Blender Magic Circle/Magic%20Circle.png" width="600">
 </a>
 </p>
@@ -71,8 +71,7 @@ Please comply with the laws and license conditions of your country.
 </p>
 
 <div align="center">
-
-<a href="https://github.com/NEO1842/Blender-Magic-Circle">
+<a href="https://drive.google.com/file/d/18LfLnoKogsrWnQze4FvCvG2RF6EMT-aa/view?usp=sharing">
 <img src="Blender Magic Circle/Magic%20Circle.png" width="600">
 </a>
 
