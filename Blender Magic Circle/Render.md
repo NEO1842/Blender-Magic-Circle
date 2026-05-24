@@ -10,7 +10,7 @@
 
 <p align="center">
 <a href="https://github.com/NEO1842/Blender-Magic-Circle">
-<img src="MagicCircle.png" width="600">
+<img src="Magic Circle.png" width="600">
 </a>
 </p>
 
@@ -84,6 +84,8 @@ inspired by fantasy magic systems.
 
 ## 🎥 Animation
 
+https://drive.google.com/file/d/18LfLnoKogsrWnQze4FvCvG2RF6EMT-aa/view?usp=sharing
+
 Project repository:  
 
 https://github.com/NEO1842/Blender-Magic-Circle
@@ -104,7 +106,7 @@ https://github.com/NEO1842/Blender-Magic-Circle
 
 <p align="center">
 <a href="https://github.com/NEO1842/Blender-Magic-Circle">
-<img src="MagicCircle.png" width="600">
+<img src="Magic Circle.png" width="600">
 </a>
 </p>
 
@@ -177,6 +179,8 @@ https://github.com/NEO1842/Blender-Magic-Circle
 ---
 
 ## 🎥 アニメーション
+
+https://drive.google.com/file/d/18LfLnoKogsrWnQze4FvCvG2RF6EMT-aa/view?usp=sharing
 
 プロジェクトはこちら：  
 
